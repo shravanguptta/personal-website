@@ -1,0 +1,190 @@
+{
+    "main": {
+      "name":"Shravan Gupta",
+      "occupation":"Software Engineer",
+      "description":"Currently I am in my 3rd year of engineering program and am actively looking for Summer (May 2020) and Fall (September 2020) internships. Please feel free to contact me for any opportunity.",
+      "image":"profilepic.jpg",
+      "bio":"I am a computer engineering student with passion for web development and designing. I love to solve problems and think about unique ways of approaching them. Being a self-learner, I am always curious to learn new technologies and how can I make social impact with them. I strongly believe that with right intention and hardwork we can do wonders!   ",
+      "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+      "email": "shravanjmu@gmail.com",
+      "phone": "",
+      "address":{
+        "city":"Vancouver",
+        "state":"BC"
+      },
+      "website": "http://www.shravangupta.me",
+      "resumedownload":"",
+      "social":[
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/shravan-gupta-5a3576167/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"github",
+          "url":"https://gitlab.com/shravan_gupta",
+          "className":"fa fa-github"
+        },
+        {
+          "name":"google",
+          "url":"https://gitlab.com/shravan_gupta",
+          "className":"fa fa-google-plus"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage":"",
+      "education":[
+        {
+          "school":"Simon Fraser University",
+          "degree":"Computer Engineering",
+          "graduated":"January 2017 - Current (Expected Graduation - August 2021)",
+          "description":"Dean's Honour Roll - Summer 2019"
+        }
+      ],
+      "work":[
+        {
+          "company":"Marine Learning Systems",
+          "title":"Software Engineer Intern ",
+          "years":"September 2019 - December 2019",
+          "description": [
+            "Developed and implemented automated test scripts in Python for testing API and in Helium for testing UI",
+            "Implemented and updated test plans for specific bugs and new software releases",
+            "Tested approximately 50 bugs tickets and verified the operation of software using SQL DB queries and resolved any anomalies",
+            "Worked in a fast-paced Agile environment while ensuring to deliver reliable and well-tested software"
+        ]
+        },
+        {
+          "company":"Simon Fraser University",
+          "title":"Research Assistant",
+          "years":"September 2018 - December  2018",
+          "description": [
+            "Designed a hand- held UV spectrometer from scratch that can be used for testing water impurities, ph level etc",
+            "Researched the principles of optics, electric circuits and how to make them work in a compact unit with the use of nanomaterials",
+            "Implemented techniques such as linear regression for accuracy and reliability of the product",
+            "Developing an Android app where users can see their results real-time and analyse the data using graphs and different statistics"
+        ]
+        },
+        {
+          "company":"Simon Fraser University Residence Life",
+          "title":"Community Advisor",
+          "years":"August 2018 - Current",
+          "description": [
+            "Managed a floor of 45 students and act as a first point of contact and resource for students living in SFU residence.",
+            "Implemented community programs for the residents to enhance their experience and educate them on community standards.",
+            "Assisted the resident’s with academic and social transition to university life and managed issues within the community to ensure safety, security, and well-being of residents.",
+            "Exercised sound and responsible judgments in resoliving interpersonal issues and difficult situations",
+            "Managed bi-weekly team meetings where we analyse and discuss ways by which we can improve future events"
+        ]
+        }
+      ],
+      "cocurriculars": [
+        {
+            "organisation": "Simon Fraser Public Interest Research Group (SFPIRG)",
+            "position": "Letters for the Inside Researcher",
+            "duration": "January 2019 - August 2019",
+            "description":[
+                "Educate SFU students of some of the challenges faced by inmates and how can student help them in their transition.",
+                "Provide information important to inmates by replying to there letters for reintegration into the community.",
+                "Develop relationships between those serving time and the wider community by providing them appropriate resources.",
+                "Provide information to inmates that feeds their imagination, thus improving the quality of life on the inside."
+            ]                
+        },
+        {
+            "organisation": "SFU Sustainability Department",
+            "position": "Sustainability Educator",
+            "duration": "September 2018 - Current",
+            "description":[
+                "Educate the SFU community on Zero Waste Initiative and about different ways to reduce waste production.",
+                "Helped the community to understand the four waste streams and their significance.",
+                "Engaged students through fun games and activities to make recycling fun and motivate them to be a part of the initiative."
+            ]                
+        },
+        {
+            "organisation": "Simon Fraser University",
+            "position": "Student Ambassador",
+            "duration": "June 2018 - Current",
+            "description":[
+                "The Student Ambassador Program is an umbrella of various opportunities for getting involved on SFU campus, including volunteering and participating in certain workshops.",
+                "Voluntered for orienatation days, campus tours, and cultural nights.",
+                "Managed different teams and ensured that events are running smoothly."
+            ]                
+        }
+    ],
+      "skills":[
+        {
+          "name":"HTML5",
+          "level":"90%"
+        },
+        {
+          "name":"CSS",
+          "level":"80%"
+        },
+        {
+          "name":"ReactJs",
+          "level":"90%"
+        },
+        {
+          "name":"Javascript",
+          "level":"70%"
+        },
+        {
+          "name":"C++",
+          "level":"90%"
+        },
+        {
+          "name":"SQL",
+          "level":"70%"
+        },
+        {
+          "name":"Python",
+          "level":"80%"
+        },
+        {
+          "name":"Swift",
+          "level":"50%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Parkinsonn Assist App",
+          "category":"A Swift based ios app for Parkinsons Assist patients.",
+          "image":"parkinsons-logo.png",
+          "url":"https://gitlab.com/t3am-sfu/parkinsons-assist"
+        },
+        {
+          "title":"Polynomial Class",
+          "category":"Implemented Polynolmial functions in this project. ",
+          "image":"polynomial-class.jpg",
+          "url":"https://gitlab.com/shravan_gupta/polynomial-class"
+        },
+        {
+          "title":"Portfolio Website",
+          "category":"My React based personal portfolio website!",
+          "image":"personal-website.jpg",
+          "url":"https://gitlab.com/shravan_gupta/personal-website"
+        },
+        {
+          "title":"Data Structures",
+          "category":"A C++ code base for different data structures.",
+          "image":"data-structures.png",
+          "url":"https://gitlab.com/shravan_gupta/data-structure"
+        }
+      ]
+    },
+    "testimonials":{
+      "testimonials":[
+        {
+          "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+          "user":"Kareem Abdul Jabbar"
+        },
+        {
+          "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+          "user":"Steve Wozniak... impersonator"
+        }
+      ]
+    }
+  }
+  
